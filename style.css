@@ -1,12 +1,5 @@
 
-@media all and (max-width:480px) {
-    #title {
-        width: 100%;
-        display: block;
-        padding: 5px;
-        font-size: 80%;
-    }
-}
+
 img{
     height:400px;
 }
